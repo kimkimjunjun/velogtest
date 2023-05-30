@@ -35,7 +35,7 @@ export default Darkmode;
 const S = {};
 S.Main = styled.div`
   width: 100%;
-  height: 100vh;
+  height: 200vh;
   color: ${props => props.theme.colors.titleColor};
   background-color: ${props => props.theme.colors.bgColor};
   padding-top: 15px;
